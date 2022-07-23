@@ -19,4 +19,47 @@ Did you like my scripts? So, please, buy me a coffee to keep me working on it..
 
 Table 1 outlines how **Node.JS** can be installed on the operating system of the user.  
 
-The user can download the **Node.JS** version specific for their operating system at https://nodejs.org/en/download/, according to the recommendations in Table 1.
+The user can download the **Node.JS** version specific for their operating system at https://nodejs.org/en/download/, according to the recommendations in Table 1.  
+<br/>  
+
+<div align="center">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">OS</th>
+<th style="text-align:center">Architecture</th>
+<th style="text-align:center">Recommended</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Windows</td>
+<td style="text-align:center">32 bits / 64 bit</td>
+<td style="text-align:center">Recommended (64 bits) (Intel/AMD)</td>
+</tr>
+<tr>
+<td style="text-align:center">MacOS</td>
+<td style="text-align:center">64 bits / ARM64</td>
+<td style="text-align:center">Recommended (ARM64) (M1)</td>
+</tr>
+<tr>
+<td style="text-align:center">Linux</td>
+<td style="text-align:center">64 bits</td>
+<td style="text-align:center">Recommended (64 bit) (Intel/AMD)</td>
+</tr>
+<tr>
+<td style="text-align:center">Docker</td>
+<td style="text-align:center">ARM/ARM64/32bits/64 bits</td>
+<td style="text-align:center"><b>Recommended for Experts Users</b></td>
+</tr>
+</tbody>
+</table>
+<caption><i>Table 1. Recommended versions for installing Node.JS on each Operating System.</i></caption>
+</div>  
+<br/>  
+
+**Figure 1** shows the **Node.JS** download page. By clicking on the chosen version, the download will begin.  
+<br/>  
+
+<p align="center"><img src="https://github.com/luanrabelo/dataFishing/blob/stable/assets/Figure1.png" width="100%" title="Figure 1"><b>Figure 1.</b> Node.JS download. Here, the user can download the Node.JS installation file by following the recommendations in <b>Table 1</b>.</p>  
+<br/>  
