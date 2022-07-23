@@ -63,3 +63,33 @@ The user can download the **Node.JS** version specific for their operating syste
 
 <p align="center"><img src="https://github.com/luanrabelo/M-TeReSA/blob/stable/assets/Figure1.png" width="100%" title="Figure 1"><b>Figure 1.</b> Node.JS download. Here, the user can download the Node.JS installation file by following the recommendations in <b>Table 1</b>.</p>  
 <br/>  
+
+- <h3>Windows</h3>  
+Installation on **Windows** follows the standard installation of programs on this operation system. However, the user must pay attention to the step shown in **Figure 2**. Here, the user must check the option to install the necessary tools for the proper functioning of *Node.JS*. After installation, the console will open and several tools will be downloaded and installed **(Figure 2)**. It is important to note that, this step requires an internet connection **(Figure 3)**. At the end, restart your PC.  
+<br/>  
+
+<p align="center"><img src="https://github.com/luanrabelo/M-TeReSA/blob/stable/assets/Figure2.png" width="100%" title="Figure 2"><b>Figure 2.</b> Node.JS installation. Check the option for installing the required tools for the proper execution of Node.JS.</p>  
+<br/>  
+
+<p align="center"><img src="https://github.com/luanrabelo/M-TeReSA/blob/stable/assets/Figure3.png" width="100%" title="Figure 3"><b>Figure 3.</b> After installation <b>(Figure 2)</b>, the console is opened, and several tools are installed.</p>  
+<br/>  
+
+- <h3>MacOS</h3>  
+
+On MacOS, after clicking the link, downloading, and executing the installation file, accept the installation terms and select the destination folder. After clicking install, enter the user password and wait. If the installation is successful, a message similar to that in **Figure** 4 will appear.  
+<br/>  
+
+<p align="center"><img src="https://github.com/luanrabelo/M-TeReSA/blob/stable/assets/Figure4.png" width="100%" title="Figure 4"><b>Figure 4.</b> Installation on MacOS.</p>  
+<br/>  
+
+- <h3>Linux</h3>
+
+On Linux, Ubuntu will be used for installing *Node.JS*. If another operating system based on Linux is used, see the detailed documentation in the *Node.JS* repository on github at https://github.com/nodesource/distributions/blob/master/README.md.  
+
+On Ubuntu, open the console, type and execute the command `sudo apt install nodejs`, enter the user password and wait. After the installation is complete, the NPM package manager must be installed.  
+
+For this installation, type and execute the command `sudo apt install npm` enter the user password and wait. For simplification purposes, a single command can be used to install both Node.JS and NPM. For such installation, type and execute the command `sudo apt install nodejs npm` **(Figure 5)**.  
+<br/>  
+
+<p align="center"><img src="https://github.com/luanrabelo/M-TeReSA/blob/stable/assets/Figure5.png" width="100%" title="Figure 5"><b>Figure 5.</b> Linux console with command for installing Node.JS and NPM.</p>  
+<br/>  
