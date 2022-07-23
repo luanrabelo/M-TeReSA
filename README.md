@@ -61,5 +61,5 @@ The user can download the **Node.JS** version specific for their operating syste
 **Figure 1** shows the **Node.JS** download page. By clicking on the chosen version, the download will begin.  
 <br/>  
 
-<p align="center"><img src="https://github.com/luanrabelo/dataFishing/blob/stable/assets/Figure1.png" width="100%" title="Figure 1"><b>Figure 1.</b> Node.JS download. Here, the user can download the Node.JS installation file by following the recommendations in <b>Table 1</b>.</p>  
+<p align="center"><img src="https://github.com/luanrabelo/M-TeReSA/blob/stable/assets/Figure1.png" width="100%" title="Figure 1"><b>Figure 1.</b> Node.JS download. Here, the user can download the Node.JS installation file by following the recommendations in <b>Table 1</b>.</p>  
 <br/>  
