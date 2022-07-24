@@ -133,9 +133,9 @@ First, an input txt file to be used in *M-TeReSA* must be created. This file mus
 </table>
 </div>  
 
-In the example above, disregard the *"_"*. As examples (b) and (c) have characters manually added by the user, the vouchers with these characters will not be found when searching for the genome information on NCBI.  
+In the example above, disregard the *"_"* and *"."*. As examples (b) and (c) have characters manually added by the user, the vouchers with these characters will not be found when searching for the genome information on NCBI.  
 
-Many authors, possibly for aesthetic reasons, remove the character *"_"* from their vouchers, tables, and published studies.  
+Many authors, possibly for aesthetic reasons, remove the character *"_"* or *"."* from their vouchers, tables, and published studies.  
 
 Obtaining such data without a previous review may cause errors, not just in *M-TeReSA*, but any other tool that uses vouchers as an input.  
 
