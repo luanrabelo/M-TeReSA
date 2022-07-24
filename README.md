@@ -17,9 +17,9 @@ Did you like my scripts? So, please, buy me a coffee to keep me working on it..
 
 *M-TeReSA* requires the installation of **Node.JS** for its execution. Both *M-TeReSA* and **Node.JS** are cross-platforms and can be executed with the same script `M-TeReSA.js` on any operating system compatible with **Node.JS**.  
 
-Table 1 outlines how **Node.JS** can be installed on the operating system of the user.  
+**Table 1** outlines how **Node.JS** can be installed on the operating system of the user.  
 
-The user can download the **Node.JS** version specific for their operating system at https://nodejs.org/en/download/, according to the recommendations in Table 1.  
+The user can download the **Node.JS** version specific for their operating system at https://nodejs.org/en/download/, according to the recommendations in **Table 1**.  
 <br/>  
 
 <div align="center">
